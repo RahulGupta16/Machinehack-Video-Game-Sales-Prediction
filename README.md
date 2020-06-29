@@ -12,6 +12,8 @@ The leaderboard is evaluated using RMSE for the participant’s submission.
 
 ## Leaderboard Rank : 28
 
+![videorank](https://user-images.githubusercontent.com/56091634/86027284-23428980-ba4e-11ea-8df0-4880f6904823.png)
+
 ## Online CV: 0.65628
 
-## Local CV: 0.69
+## Local CV: 0.6958
